@@ -1,3 +1,7 @@
+https://www.javascript.com/news
+http://frontenddevweekly.com/
+http://css-weekly.com/archives/
+
 https://www.reddit.com/r/javascript/
 
 reddit是一个娱乐社交新闻网站，其javascript频道有许多高质量文章
