@@ -1,6 +1,9 @@
 https://www.javascript.com/news
+
 http://frontenddevweekly.com/
+
 http://css-weekly.com/archives/
+
 
 https://www.reddit.com/r/javascript/
 
